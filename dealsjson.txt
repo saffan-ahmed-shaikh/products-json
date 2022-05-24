@@ -1,0 +1,176 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "Dealname": "Up to 70% off | Clearance store",
+                "createdAt": "2022-05-19T08:38:20.387Z",
+                "updatedAt": "2022-05-19T08:41:17.569Z",
+                "publishedAt": "2022-05-19T08:41:17.566Z",
+                "Dealimage": {
+                    "data": {
+                        "id": 13,
+                        "attributes": {
+                            "name": "s1_8b968f52-493e-4178-953b-dfb1597857fb.jpg",
+                            "alternativeText": "s1_8b968f52-493e-4178-953b-dfb1597857fb.jpg",
+                            "caption": "s1_8b968f52-493e-4178-953b-dfb1597857fb.jpg",
+                            "width": 740,
+                            "height": 510,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_s1_8b968f52-493e-4178-953b-dfb1597857fb.jpg",
+                                    "hash": "thumbnail_s1_8b968f52_493e_4178_953b_dfb1597857fb_041ad0cc44",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 226,
+                                    "height": 156,
+                                    "size": 9.89,
+                                    "url": "/uploads/thumbnail_s1_8b968f52_493e_4178_953b_dfb1597857fb_041ad0cc44.jpg"
+                                },
+                                "small": {
+                                    "name": "small_s1_8b968f52-493e-4178-953b-dfb1597857fb.jpg",
+                                    "hash": "small_s1_8b968f52_493e_4178_953b_dfb1597857fb_041ad0cc44",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 345,
+                                    "size": 40.36,
+                                    "url": "/uploads/small_s1_8b968f52_493e_4178_953b_dfb1597857fb_041ad0cc44.jpg"
+                                }
+                            },
+                            "hash": "s1_8b968f52_493e_4178_953b_dfb1597857fb_041ad0cc44",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 73.19,
+                            "url": "/uploads/s1_8b968f52_493e_4178_953b_dfb1597857fb_041ad0cc44.jpg",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-05-19T08:40:25.695Z",
+                            "updatedAt": "2022-05-19T08:40:25.695Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "Dealname": "Top rated, premium quality | Amazon Brands & more",
+                "createdAt": "2022-05-19T08:41:42.913Z",
+                "updatedAt": "2022-05-19T08:41:43.625Z",
+                "publishedAt": "2022-05-19T08:41:43.623Z",
+                "Dealimage": {
+                    "data": {
+                        "id": 12,
+                        "attributes": {
+                            "name": "https://images-na.ssl-images-amazon.com/images/G/31/Symbol/2020/00NEW/1242_450Banners/PL31_copy._CB432483346_.jpg",
+                            "alternativeText": "https://images-na.ssl-images-amazon.com/images/G/31/Symbol/2020/00NEW/1242_450Banners/PL31_copy._CB432483346_.jpg",
+                            "caption": "https://images-na.ssl-images-amazon.com/images/G/31/Symbol/2020/00NEW/1242_450Banners/PL31_copy._CB432483346_.jpg",
+                            "width": 1242,
+                            "height": 450,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_https://images-na.ssl-images-amazon.com/images/G/31/Symbol/2020/00NEW/1242_450Banners/PL31_copy._CB432483346_.jpg",
+                                    "hash": "thumbnail_PL_31_copy_CB_432483346_1e7be138c6",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 245,
+                                    "height": 89,
+                                    "size": 4.85,
+                                    "url": "/uploads/thumbnail_PL_31_copy_CB_432483346_1e7be138c6.jpg"
+                                },
+                                "large": {
+                                    "name": "large_https://images-na.ssl-images-amazon.com/images/G/31/Symbol/2020/00NEW/1242_450Banners/PL31_copy._CB432483346_.jpg",
+                                    "hash": "large_PL_31_copy_CB_432483346_1e7be138c6",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 362,
+                                    "size": 42.23,
+                                    "url": "/uploads/large_PL_31_copy_CB_432483346_1e7be138c6.jpg"
+                                },
+                                "medium": {
+                                    "name": "medium_https://images-na.ssl-images-amazon.com/images/G/31/Symbol/2020/00NEW/1242_450Banners/PL31_copy._CB432483346_.jpg",
+                                    "hash": "medium_PL_31_copy_CB_432483346_1e7be138c6",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 272,
+                                    "size": 26.84,
+                                    "url": "/uploads/medium_PL_31_copy_CB_432483346_1e7be138c6.jpg"
+                                },
+                                "small": {
+                                    "name": "small_https://images-na.ssl-images-amazon.com/images/G/31/Symbol/2020/00NEW/1242_450Banners/PL31_copy._CB432483346_.jpg",
+                                    "hash": "small_PL_31_copy_CB_432483346_1e7be138c6",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 181,
+                                    "size": 14.4,
+                                    "url": "/uploads/small_PL_31_copy_CB_432483346_1e7be138c6.jpg"
+                                }
+                            },
+                            "hash": "PL_31_copy_CB_432483346_1e7be138c6",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 50.14,
+                            "url": "/uploads/PL_31_copy_CB_432483346_1e7be138c6.jpg",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-05-19T08:39:46.734Z",
+                            "updatedAt": "2022-05-19T08:39:46.734Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "Dealname": "Up to 50% off | T-shirts",
+                "createdAt": "2022-05-19T08:42:02.946Z",
+                "updatedAt": "2022-05-19T08:42:03.708Z",
+                "publishedAt": "2022-05-19T08:42:03.706Z",
+                "Dealimage": {
+                    "data": {
+                        "id": 14,
+                        "attributes": {
+                            "name": "https://images.bewakoof.com/uploads/grid/app/Mid-Size-Banner-IPL-Men-1651833678.gif",
+                            "alternativeText": "https://images.bewakoof.com/uploads/grid/app/Mid-Size-Banner-IPL-Men-1651833678.gif",
+                            "caption": "https://images.bewakoof.com/uploads/grid/app/Mid-Size-Banner-IPL-Men-1651833678.gif",
+                            "width": null,
+                            "height": null,
+                            "formats": null,
+                            "hash": "Mid_Size_Banner_IPL_Men_1651833678_d85fbe8dff",
+                            "ext": ".gif",
+                            "mime": "image/gif",
+                            "size": 80.32,
+                            "url": "/uploads/Mid_Size_Banner_IPL_Men_1651833678_d85fbe8dff.gif",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2022-05-19T08:40:55.799Z",
+                            "updatedAt": "2022-05-19T08:40:55.799Z"
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 3
+        }
+    }
+}
